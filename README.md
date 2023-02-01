@@ -1,4 +1,4 @@
-# session2
+# Profile UI
 
 A new Flutter project.
 
